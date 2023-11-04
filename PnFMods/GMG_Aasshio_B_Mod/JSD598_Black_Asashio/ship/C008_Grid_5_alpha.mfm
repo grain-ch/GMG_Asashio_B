@@ -1,0 +1,7 @@
+<C008_Grid_5_alpha.mfm>
+	<fx>	shaders/std_effects/grid_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/GMG_Aasshio_B_Mod/JSD598_Black_Asashio/ship/C008_Grid_5_alpha_a.dds	</Texture>
+	</property>
+</C008_Grid_5_alpha.mfm>
