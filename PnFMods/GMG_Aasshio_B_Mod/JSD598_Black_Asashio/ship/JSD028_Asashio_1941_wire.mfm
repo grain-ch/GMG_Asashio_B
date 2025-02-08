@@ -5,6 +5,6 @@
 		<Texture>	PnFMods/GMG_Aasshio_B_Mod/JSD598_Black_Asashio/ship/JSD028_Asashio_1941_a.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/GMG_Aasshio_B_Mod/JSD598_Black_Asashio/ship/JSD028_Asashio_1941_mg.dds	</Texture>
+		<Texture>	PnFMods/GMG_Aasshio_B_Mod/JSD598_Black_Asashio/ship/default_wires_mg.dds	</Texture>
 	</property>
 </JSD028_Asashio_1941_wire.mfm>

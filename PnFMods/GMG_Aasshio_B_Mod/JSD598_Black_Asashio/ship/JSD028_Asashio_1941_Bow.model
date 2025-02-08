@@ -1,7 +1,6 @@
 <JSD028_Asashio_1941_Bow.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/GMG_Aasshio_B_Mod/JSD598_Black_Asashio/ship/lods/JSD028_Asashio_1941_Bow_lod1	</parent>
-	<extent>	8.0000	</extent>
-	<nodefullVisual>	PnFMods/GMG_Aasshio_B_Mod/JSD598_Black_Asashio/ship/JSD028_Asashio_1941_Bow	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/GMG_Aasshio_B_Mod/JSD598_Black_Asashio/ship/JSD028_Asashio_1941_Bow.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JSD028_Asashio_1941_Bow.model>
